@@ -19,8 +19,8 @@ This project aims to ensure the website's smooth functionality by automating cri
 [Test Case for Book House by Anik Chakraborty](https://docs.google.com/spreadsheets/d/1fprVjAqXRW_7NpZPudY8ja0rpoFY658I/edit?usp=sharing&ouid=102409645167363931924&rtpof=true&sd=true)  
 
 ## Pre-requisites
-* Java (it's better to use the latest version)
-* maven
+* Java (it's better to use the latest and stable version)
+* Maven
 * Testing
 * Webdriver
 * Allure Command Line
@@ -29,7 +29,6 @@ This project aims to ensure the website's smooth functionality by automating cri
 
 ## Project Structure
 ````
-
 **bookhouse-automation-pom/**  
 |──**src/**  
 │   ├── **main/**  

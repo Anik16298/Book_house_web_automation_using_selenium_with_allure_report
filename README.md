@@ -2,13 +2,13 @@
 ## Overview
 This project automates the functionality of the BookHouse.com website using Java, Selenium WebDriver, and TestNG for test execution. The automation suite includes key operations such as login, searching for books, adding items to the cart, and completing checkout. All test results are reported using Allure, generating detailed and interactive reports for test analysis also created the report on surefire-report.
 
-The goal of this project is to ensure the smooth functionality of the website by automating critical flows and validating the website’s behavior under various scenarios based on only happy paths.
+This project aims to ensure the website's smooth functionality by automating critical flows and validating the website’s behaviour under various scenarios based on only happy paths.
 
 ## Features
 * **Automated Login** <br>
-* **Search Functionalities** : Automated searching books based on writer, title, genre, publishers etc. <br>
+* **Search Functionalities** : Automated searching books based on the writer, title, genre, publishers etc. <br>
 * **Shopping page Automated** : Simulates adding/removing books from the cart. <br>
-* **Checkout Operation** : Automates the entire checkout process with followed all steps like enter number address delivery area delivery method etc. <br>
+* **Checkout Operation** : Automates the entire checkout process by following all steps like entering the number address delivery area delivery method etc. <br>
 * **Automated Logout** <br>
 * **Report Generate with Allure and Surefire** : Generates rich, visually appealing HTML reports of the test executions.
 
@@ -19,11 +19,11 @@ The goal of this project is to ensure the smooth functionality of the website by
 [BookHouse TestCase Developed By Anik Chakraborty](https://docs.google.com/spreadsheets/d/1fprVjAqXRW_7NpZPudY8ja0rpoFY658I/edit?usp=sharing&ouid=102409645167363931924&rtpof=true&sd=true)  
 
 ## Pre-requisites
-* Java (it's better to use the leteast version)
+* Java (it's better to use the latest version)
 * maven
-* Testng
+* Testing
 * Webdriver
-* Allure command Line
+* Allure Command Line
 * Surefire command line for run in terminal
 * IDE like IntelliJ IDEA, Eclipse, or Visual Studio Code
 
@@ -356,11 +356,10 @@ mvn test -Dbrowser=Chrome
 mvn test -Dbrowser=Chrome -DsuitFileName="testng.xml"
 ````
 ## Report Screenshots
-https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-1.png
-https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-2.png
-https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-3.png
-https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-4.png
-https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-5.png
-https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-6.png
-https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-7.png
-
+<img width="675" alt="Allure_Report" src="https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-1.png">
+<img width="675" alt="Allure_Report" src="https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-2.png">
+<img width="675" alt="Allure_Report" src="https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-3.png">
+<img width="675" alt="Allure_Report" src="https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-4.png">
+<img width="675" alt="Allure_Report" src="https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-5.png">
+<img width="675" alt="Allure_Report" src="https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-6.png">
+<img width="675" alt="Allure_Report" src="https://github.com/Anik16298/Book_house_web_automation_using_selenium_with_allure_report/blob/02c3e581ddcdccd7b048d9547af26368ebfbdac3/screenshots/Result%20SS-7.png">

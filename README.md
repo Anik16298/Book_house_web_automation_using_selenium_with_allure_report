@@ -16,7 +16,7 @@ This project aims to ensure the website's smooth functionality by automating cri
 [Book House](https://bookhouse.com.bd/)
 
 ## Manual TestCase
-[Test Case on Book House By Anik Chakraborty](https://docs.google.com/spreadsheets/d/1fprVjAqXRW_7NpZPudY8ja0rpoFY658I/edit?usp=sharing&ouid=102409645167363931924&rtpof=true&sd=true)  
+[Test Case for Book House by Anik Chakraborty](https://docs.google.com/spreadsheets/d/1fprVjAqXRW_7NpZPudY8ja0rpoFY658I/edit?usp=sharing&ouid=102409645167363931924&rtpof=true&sd=true)  
 
 ## Pre-requisites
 * Java (it's better to use the latest version)

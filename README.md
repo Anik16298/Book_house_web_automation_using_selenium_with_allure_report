@@ -75,7 +75,6 @@ Ensure Java 8 or higher and Maven 3.x are installed on your machine.
 
 Check your Java and Maven versions:
 ````
-
 java -version
 mvn -version
 ````

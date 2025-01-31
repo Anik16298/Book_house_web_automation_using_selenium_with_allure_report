@@ -13,10 +13,10 @@ This project aims to ensure the website's smooth functionality by automating cri
 * **Report Generate with Allure and Surefire** : Generates rich, visually appealing HTML reports of the test executions.
 
 ## Website
-[BookHouse.com Automate Testing Execution By Anik Chakraborty](https://bookhouse.com.bd/)
+[Book House](https://bookhouse.com.bd/)
 
 ## Manual TestCase
-[BookHouse TestCase Developed By Anik Chakraborty](https://docs.google.com/spreadsheets/d/1fprVjAqXRW_7NpZPudY8ja0rpoFY658I/edit?usp=sharing&ouid=102409645167363931924&rtpof=true&sd=true)  
+[Test Case on Book House By Anik Chakraborty](https://docs.google.com/spreadsheets/d/1fprVjAqXRW_7NpZPudY8ja0rpoFY658I/edit?usp=sharing&ouid=102409645167363931924&rtpof=true&sd=true)  
 
 ## Pre-requisites
 * Java (it's better to use the latest version)
@@ -339,7 +339,7 @@ public class TestLoginPage extends DriverSetup {
 ## Reporting
 ### Allure Reporting
 Make Sure allure dependencies are added to the POM.xml file. Then, Create a TestNG.xml File and set up a run method with a Thread count. Finally, run the test.
-After Completing run test go to the terminal and execute this code:- 
+After Completing the run test go to the terminal and execute this code:- 
 ````
 
 allure generate ./allure-results/ --clean

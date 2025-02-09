@@ -21,7 +21,8 @@ This project aims to ensure the website's smooth functionality by automating cri
 ## Pre-requisites
 * Java (it's better to use the latest and stable version)
 * Maven
-* Testing
+* Manual Test Cases
+* Testing Script(Manual Test cases converted into codes)
 * Webdriver
 * Allure Command Line
 * Surefire command line for run in terminal
